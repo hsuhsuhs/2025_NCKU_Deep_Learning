@@ -88,11 +88,11 @@ Typical components include:
 
 This assignment focuses on **industrial surface defect analysis**, including:
 
-1. **Object Detection** (Bounding Boxes)
-2. **Semantic Segmentation** (Pixel-level classification)
+1. **Object Detection** 
+2. **Semantic Segmentation** 
 
 Dataset:
-- Kolektor Surface-Defect Dataset :contentReference[oaicite:2]{index=2}
+- Kolektor Surface-Defect Dataset 
 - Real-world industrial images
 - Includes both defective and non-defective samples
 
@@ -103,7 +103,7 @@ Dataset:
 - 356 images with defects
 - 2979 images without defects
 - Image size ≈ 230 × 630
-- Various defect types (scratches, spots, imperfections) :contentReference[oaicite:3]{index=3}
+- Various defect types (scratches, spots, imperfections) 
 
 ---
 
@@ -118,7 +118,6 @@ Detect and localize defects using bounding boxes.
 - SSD
 - RetinaNet
 - Faster R-CNN
-- DETR / RT-DETR :contentReference[oaicite:4]{index=4}
 
 ### Evaluation Metric
 
@@ -134,12 +133,6 @@ Classify each pixel as:
 - Defect
 - Background
 
-### Supported Models
-
-- U-Net
-- DeepLabV3+
-- SegNet
-- PSPNet :contentReference[oaicite:5]{index=5}
 
 ### Evaluation Metric
 
