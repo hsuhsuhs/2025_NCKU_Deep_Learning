@@ -1,0 +1,6 @@
+*.pth
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+DL_hw1/output_pytorch_kfold/
+DL_hw1/output_pytorch_kfold_MLP_Adjusted/
