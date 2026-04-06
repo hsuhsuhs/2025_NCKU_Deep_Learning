@@ -3,8 +3,8 @@
 This repository contains coursework implementations for the **Deep Learning** course at National Cheng Kung University (NCKU).  
 It includes two main assignments:
 
-- [**DL_hw1**](https://github.com/hsuhsuhs/2025_NCKU_Deep_Learning/new/main?filename=README.md#-dl_hw1--image-classification): Image Classification using MLP and CNN (VGG16)
-- [**DL_hw2**](https://github.com/hsuhsuhs/2025_NCKU_Deep_Learning/edit/main/README.md#-dl_hw2--defect-detection--segmentation): Industrial Surface Defect Detection and Segmentation
+- [**DL_hw1**](https://github.com/hsuhsuhs/2025_NCKU_Deep_Learning/tree/main/DL_hw1): Image Classification using MLP and CNN 
+- [**DL_hw2**](https://github.com/hsuhsuhs/2025_NCKU_Deep_Learning/tree/main/DL_hw2): Industrial Surface Defect Detection and Segmentation
 
 ---
 
