@@ -25,7 +25,7 @@ The objective of HW1 is to perform **multi-class image classification** on an in
 - dirt
 - insect
 - edge
-- weldpoint :contentReference[oaicite:0]{index=0}
+- weldpoint
 
 Two models are implemented:
 
@@ -55,7 +55,7 @@ The overall workflow follows:
 Data Preparation → Model Design → Loss Function & Optimizer → Training → Evaluation
 ```
 
-This pipeline is explicitly described in the assignment instructions :contentReference[oaicite:1]{index=1}.
+This pipeline is explicitly described in the assignment instructions 
 
 ---
 
@@ -187,7 +187,7 @@ A GUI is implemented for demonstration:
 
 - Input image
 - Detection results (bounding boxes)
-- Segmentation mask overlay :contentReference[oaicite:6]{index=6}
+- Segmentation mask overlay 
 
 ---
 
