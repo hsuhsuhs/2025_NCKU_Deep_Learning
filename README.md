@@ -1,6 +1,6 @@
 # 2025 NCKU Deep Learning
 
-This repository contains coursework implementations for the **Deep Learning** course at National Cheng Kung University (NCKU).  
+This repository contains coursework implementations for the **Deep Learning** course at National Cheng Kung University.  
 It includes two main assignments:
 
 - [**DL_hw1**](https://github.com/hsuhsuhs/2025_NCKU_Deep_Learning/tree/main/DL_hw1): Image Classification using MLP and CNN 
