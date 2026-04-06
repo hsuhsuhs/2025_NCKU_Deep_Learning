@@ -1,0 +1,5 @@
+path: ./KSDD2  # 使用相對路徑
+train: train/images
+val: test/images
+nc: 1
+names: ['defect']
